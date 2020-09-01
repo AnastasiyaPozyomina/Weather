@@ -11,7 +11,6 @@
  - скорость ветра,
  - влажность воздуха.
 
-ТехнологиииЖ
 
  Полезные ссылки:
  Weather API - OpenWeatherMap https://openweathermap.org/ 
