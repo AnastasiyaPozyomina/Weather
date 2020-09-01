@@ -16,16 +16,5 @@ fetch('https://api.openweathermap.org/data/2.5/weather?q=Novosibirsk&onecall&app
         //catch any errors
     });
 
-    // Дата
-function date() {
-    let date = new Date().toLocaleString('ru', {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-    });;
-    document.querySelector(".date").innerHTML = date;
-
-}
-date();
 
 
