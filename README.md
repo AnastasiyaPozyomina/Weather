@@ -13,8 +13,8 @@
 
 
  Полезные ссылки:
- Weather API - OpenWeatherMap https://openweathermap.org/ 
- Fetch API - https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch
- Math.round() - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/round
- Node.textContent - https://developer.mozilla.org/ru/docs/Web/API/Node/textContent
- Массивы - https://learn.javascript.ru/array
+ <p>Weather API - OpenWeatherMap https://openweathermap.org/</p>
+ <p>Fetch API - https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch</p>
+ <p>Math.round() - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/round</p>
+ <p>Node.textContent - https://developer.mozilla.org/ru/docs/Web/API/Node/textContent</p>
+ <p>Массивы - https://learn.javascript.ru/array</p>

@@ -12,9 +12,11 @@ fetch('https://api.openweathermap.org/data/2.5/weather?q=Novosibirsk&onecall&app
         document.querySelector('.humidity').textContent = 'Влажность: ' + data.main['humidity'] + '%';
        
     })
-    .catch(function () {
-        //catch any errors
+    .catch(function (error) {
+        alert('Данные не отобразились, нажмите кнопку обновить: ', error.message);
     });
 
+
+    
 
 

@@ -74,4 +74,16 @@ font-size: 100%;
   text-transform: none;
 }
 
+.update {
+background-color: rgb(51, 102, 255, 0.7);
+color:white;
+border-radius: 15px;
+padding: 10px;
+display: block;
+margin:0 auto;
+cursor: pointer;
+outline: none;
+}
+
+
 
